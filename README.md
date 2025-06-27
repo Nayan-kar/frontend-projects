@@ -1,1 +1,2 @@
 # frontend-projects
+mini projects
